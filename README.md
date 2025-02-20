@@ -1,4 +1,4 @@
 # Knr_Demo
 This Is My First Git Repository.
 <br>
-Author- KNR
+Author- Shree Krishn (The Supreme God)
